@@ -2,5 +2,7 @@
 
 <!--
 **hikarudias/hikarudias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!{}(https://media.tenor.com/t1_0gDmFcBkAAAAM/thinking-hmm.gif)
+
+
+![](https://media.tenor.com/rTN9H5qy5VUAAAAM/bob-esponja-spongebob.gif)
 
